@@ -2,8 +2,7 @@
 # https://quarch.netlify.app/
 A detailed 46-page architecture report and case study of Bitcoin Core, i.e., the reference open-source client of the Bitcoin protocol for electronic payments. Completed in a group of 6 as my third-year unviversity capstone project for a software architecture course (CISC 322, Queen's University). The purpose of this project was to widen the understanding of software architecture in the context of a large software system. A video presentation of this project's deliverables can be found at the site linked above.
 </br>
-# Part 1: Conceptual Architecture Report 
-[a relative link](https://github.com/sean-y-liang/Bitcoin-Core-Report/blob/4a3c754eaa6e224fd1e0e7afa9b36691b70bf43b/Part%201%20-%20Bitcoin%20Core%20Conceptual%20Architecture%20Report.pdf)
+# [Part 1: Conceptual Architecture Report](https://github.com/sean-y-liang/Bitcoin-Core-Report/blob/4a3c754eaa6e224fd1e0e7afa9b36691b70bf43b/Part%201%20-%20Bitcoin%20Core%20Conceptual%20Architecture%20Report.pdf)
 Identify and document the conceptual architecture of Bitcoin Core.
 # Part 2: Concrete Architecture Report
 Recover the concrete architecture of the Bitcoin Core by studying the source code, then identify and discuss divergences from the conceptual architecture.
